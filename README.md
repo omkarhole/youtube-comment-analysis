@@ -293,24 +293,9 @@ Contributions and suggestions are welcome.
 
 Add a license before distributing this project. If you choose an open-source license, include its full license file in the repository.
 
-## 👤 Author
 
-**YOUR NAME**
 
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/omkarhole)
-- LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/)
 
-Replace these placeholders with your own profile links.
-
----
-
-<div align="center">
-
-**If you find this project useful, consider giving the repository a ⭐ on GitHub.**
-
-Built with Python, Streamlit, and machine learning.
-
-</div>
 '''
 
 output_path = "/mnt/data/README.md"
