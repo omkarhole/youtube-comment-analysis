@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+cleaning_and_evaluation/youtube_comments_cleaned3.csv
+.env

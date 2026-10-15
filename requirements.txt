@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+wordcloud
+matplotlib
+google-api-python-client
+joblib
+scikit-learn==1.9.1
