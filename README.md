@@ -280,20 +280,6 @@ Official guide: [Deploy your app on Streamlit Community Cloud](https://docs.stre
 - Cache repeated video requests where appropriate
 - Add a comparison view for multiple videos
 
-## 🤝 Contributing
-
-Contributions and suggestions are welcome.
-
-1. Fork the repository.
-2. Create a branch for your change.
-3. Make and test your changes.
-4. Open a pull request describing what changed.
-
-## 📄 License
-
-Add a license before distributing this project. If you choose an open-source license, include its full license file in the repository.
-
-
 
 
 '''
